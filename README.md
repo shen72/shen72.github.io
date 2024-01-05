@@ -1,12 +1,3 @@
----
-title: "Yi Shen's Homepage"
-author: "Yi Shen"
-output:
-    html_document:
-        css: readme.css
-        self_contained: no
----
-
 # About Me
 ![selfie](img/race_1085_photo_22500210.jpg)
 
