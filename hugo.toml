@@ -1,0 +1,30 @@
+languageCode = 'en-us'
+title = "Yi Shen"
+theme = 'PaperMod'
+
+[params]
+defaultTheme = "light"
+disableThemeToggle = false
+
+[params.homeInfoParams]
+Title = ""
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:shen72@gmail.com"
+
+[[params.socialIcons]]
+name = "x"
+url = "https://x.com/shen72_steven"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/shen72/"
+
+[[params.socialIcons]]
+name = "googlescholar"
+url = "https://scholar.google.com/citations?user=BIxqaEUAAAAJ&hl=en"
+
+[[params.socialIcons]]
+name = "instagram"
+url = "https://www.instagram.com/frozenfire86/"
