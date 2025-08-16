@@ -6,7 +6,7 @@ title = 'About Yi Shen'
 
 # About Me
 
-I am currently a researcher in OpenAI.
+I am Yi Shen (in Chinese: 沈 毅), currently a researcher in OpenAI.
 
 I led or co-led the development of the following models:
 * Advanced Voice Mode (speech-to-speech model).
