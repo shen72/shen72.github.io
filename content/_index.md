@@ -19,7 +19,7 @@ I was a senior staff tech lead manager in Waymo, leading Waymo’s Scene Underst
 
 I also worked for Nuro and Google.
 
-I received my PhD degree in Computer Science from University of North Carolina at Charlotte, and Bachelor’s degree from Fudan University.
+I got my PhD degree in Computer Science from University of North Carolina at Charlotte, and Bachelor’s degree from Fudan University.
 
 ---
 I'm proud of several exciting experiences, from the most recent to the earliest:
