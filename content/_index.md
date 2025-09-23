@@ -27,8 +27,8 @@ I'm proud of several exciting experiences, from the most recent to the earliest:
 - Trained ChatGPT’s speech-to-speech models and grew the DAU from 0 to XX millions.
 - Led an elite team in Waymo to solve long-tail issues to enable dense urban autonomous driving.
 - Established Nuro’s software stack from ground-up.
-- Trained and deployed Google’s first deep learning-based image embedding.
-- Won silver medal on ACM/ICPC world final (6th place overall).
+- Trained and deployed Google’s first deepnet-based image embedding.
+- Won the silver medal on 2005 ICPC world final (6th place overall).
 
 ---
 In my spare time, I enjoy photography, sports and reading.
