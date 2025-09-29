@@ -6,16 +6,17 @@ title = 'About Yi Shen'
 
 # About Me
 
-I am Yi Shen (in Chinese: 沈 毅), currently a researcher in OpenAI.
+I am Yi Shen (in Chinese: 沈 毅). In Sep 2025, I joined Google Deepmind. 
 
-I led or co-led the development of the following models:
+---
+*Previously...*
+
+I was a researcher in OpenAI, led or co-led the research efforts for the following models:
 * Advanced Voice Mode (speech-to-speech model).
 * Text-to-speech: [gpt-4o-mini-tts](https://platform.openai.com/docs/models/gpt-4o-mini-tts)
 * Speech-to-text: [gpt-4o-transcribe](https://platform.openai.com/docs/models/gpt-4o-transcribe), [gpt-4o-mini-transcribe](https://platform.openai.com/docs/models/gpt-4o-mini-transcribe)
----
-*Previously*...
 
-I was a senior staff tech lead manager in Waymo, leading Waymo’s Scene Understanding team.
+Prior to my OpenAI journey, I was a senior staff tech lead manager in Waymo, leading Waymo’s Scene Understanding team.
 
 I also worked for Nuro and Google.
 
